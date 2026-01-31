@@ -56,7 +56,7 @@
 
 对于完全不会 markdown 文档编写的学长学姐，推荐使用这种方式。
 
-将你们想要写的内容发送到邮箱 myhnone@163.com ，请在主题上写“东华高中毕业生大学指北投稿”，署名务必加上自己的学校以及您的年级。
+将你们想要写的内容发送到邮箱 University_Guide@163.com ，请在主题上写“东华高中毕业生大学指北投稿”，署名务必加上自己的学校以及您的年级。
 
 #### 方式二：本地开发（推荐熟悉 Git 的同学）
 
@@ -141,7 +141,7 @@ docs/
 
 - **GitHub Issues**: [提交问题](https://github.com/musemok/university-guide/issues)
 - **Pull Request**: [提交修改](https://github.com/musemok/university-guide/pulls)
-- **邮箱**: 如果被墙了，使用邮箱联系作者，邮箱地址为 myhnone@163.com ，请在主题中写“东华高中毕业生大学指北勘误”，并在邮件最后署名。
+- **邮箱**: 如果被墙了，使用邮箱联系作者，邮箱地址为 University_Guide@163.com ，请在主题中写“东华高中毕业生大学指北勘误”，并在邮件最后署名。
 
 非常感谢各位的支持！
 
