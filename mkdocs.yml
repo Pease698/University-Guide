@@ -21,7 +21,8 @@ plugins:
   - search
 
 nav:
-  - 首页: index.md
+  - 首页: 
+      - 文档说明: index.md
   - 山东:
       - 山东大学:
           - 学校概况: shandong/sdu/sdu.md
@@ -34,4 +35,6 @@ nav:
   - 甘肃:
       - 兰州大学:
           - 学校概况: gansu/lzu/lzu.md
+  - 其他: 
+      - 
   
