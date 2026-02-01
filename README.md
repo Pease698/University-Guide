@@ -14,7 +14,7 @@
 
 ## 🚀 在线访问
 
-访问我们的文档网站：[https://musemok.github.io/university-guide/](https://musemok.github.io/university-guide/)
+访问我们的文档网站：[https://musemok.github.io/University-Guide/](https://musemok.github.io/University-Guide/)
 
 ## 📄 许可证
 
