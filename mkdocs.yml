@@ -18,7 +18,13 @@ theme:
     primary: indigo
 
 plugins:
-  - search
+  - search:
+      lang:
+        - en
+        - ja
+        - zh
+      separator: '[\s\-\.\/]+'
+      prebuild_index: true
 
 nav:
   - 首页: 
