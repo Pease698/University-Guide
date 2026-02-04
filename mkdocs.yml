@@ -37,12 +37,15 @@ nav:
   - 广东:
     - 中山大学:
       - 23旅游管理灰太狼大王分享: guangdong/sysu/1.md
+    - 暨南大学:
+      - 乌贼分享: guangdong/jnu/1.md
   - 湖北:
     - 武汉大学:
       - 武汉大学饮食大测评: hubei/whu/1.md
       - 喜欢上热搜的大学……: hubei/whu/2.md
-  #- 甘肃:
-  #  - 兰州大学:
+  - 甘肃:
+    - 兰州大学:
+      - 卡萨布兰卡分享: gansu/lzu/1.md
   - 其他: 
     - 其他文章: others/1.md
   
